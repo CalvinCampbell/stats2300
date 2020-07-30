@@ -1,5 +1,3 @@
-Female =1 ,Male =2 ,,Control = 1,Experimental = 2,,
-,,,,,,
 Task,Gender,Age,Group ,Time (minutes),Results,#
 Sudoku,1,21,1,4:38,100%,1
 Sudoku,1,25,2,7:19,100%,2
